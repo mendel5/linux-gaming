@@ -14,6 +14,8 @@ Overview of resources about gaming on linux
 
 ## Reddit
 - https://www.reddit.com/r/linux_gaming
+- https://www.reddit.com/r/wine_gaming/
+- https://www.reddit.com/r/SteamDeck/
 
 ## Youtube
 - https://www.youtube.com/c/FlightlessMango/videos
