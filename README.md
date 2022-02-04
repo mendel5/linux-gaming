@@ -11,6 +11,9 @@ Overview of resources about gaming on linux
 - https://steamdeckverified.avery.cafe
 - https://www.protondb.com
 - https://appdb.winehq.org
+- https://boilingsteam.com
+- https://linuxgameconsortium.com
+- https://steamdb.info
 - https://steamdb.info/instantsearch/?refinementList%5BappType%5D%5B0%5D=Game&refinementList%5Boslist%5D%5B0%5D=Steam%20Deck%20Verified
 
 ## Reddit
