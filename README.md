@@ -23,3 +23,6 @@ Overview of resources about gaming on linux
 
 ## Github
 to-do
+
+## Wikipedia
+- https://en.wikipedia.org/wiki/Proton_(software)
