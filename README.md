@@ -1,6 +1,12 @@
 # linux-gaming
 Overview of resources about gaming on linux
 
+## Distro
+Recommended distro for gaming on Linux:
+- Manjaro
+- https://manjaro.org/download/Manjaro
+- It's bleeding edge (based on Arch), but simpler to set-up than Arch
+
 ## Links
 - https://www.gamingonlinux.com
 - https://itsfoss.com/linux-gaming-guide
