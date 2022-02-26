@@ -4,7 +4,7 @@ Overview of resources about gaming on linux
 ## Distro
 Recommended distro for gaming on Linux:
 - Manjaro
-- https://manjaro.org/download/Manjaro
+- Download Manjaro: https://manjaro.org/download/Manjaro
 - Why Manjaro: It's bleeding edge and based on Arch Linux, but simpler to set up than Arch. Other distros like Pop-OS are usually based on Ubuntu and often do not have the latest software available. Since gaming on Linux is a rapidly changing environment, using a bleeding edge distro is an advantage.
 
 ## Links
