@@ -32,21 +32,21 @@ Recommended distro for gaming on Linux:
 - https://www.youtube.com/user/beronori/videos
 
 ## Github
-- https://github.com/ValveSoftware/Proton
-- https://github.com/doitsujin/dxvk
-- https://github.com/ValveSoftware/wine
-- https://github.com/lutris/lutris
-- https://github.com/PhoenicisOrg/phoenicis
-- https://github.com/GloriousEggroll/proton-ge-custom
-- https://github.com/flightlessmango/MangoHud
-- https://github.com/mesa3d/mesa
-- https://github.com/GloriousEggroll/protonfixes
-- https://github.com/GloriousEggroll/wine-ge-custom
-- https://github.com/lutris/wine
-- https://github.com/DadSchoorse/vkBasalt
-- https://github.com/tkashkin/GameHub
-- https://github.com/Ahmed-Al-Balochi/LibreGaming
-- https://github.com/bottlesdevs/Bottles
+- https://github.com/ValveSoftware/Proton Compatibility tool for Steam Play based on Wine and additional components
+- https://github.com/ValveSoftware/wine Wine with a bit of extra spice
+- https://github.com/doitsujin/dxvk Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- https://github.com/lutris/lutris Lutris desktop client in Python / PyGObject
+- https://github.com/PhoenicisOrg/phoenicis Phoenicis PlayOnLinux and PlayOnMac 5 repository
+- https://github.com/GloriousEggroll/proton-ge-custom Compatibility tool for Steam Play based on Wine and additional components
+- https://github.com/flightlessmango/MangoHud A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more
+- https://github.com/mesa3d/mesa Mesa 3D graphics library (read-only mirror)
+- https://github.com/GloriousEggroll/protonfixes A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
+- https://github.com/GloriousEggroll/wine-ge-custom A custom build of wine, made to use with lutris. Built with lutris's buildbot
+- https://github.com/lutris/wine Repository containing source code for various Lutris Wine builds
+- https://github.com/DadSchoorse/vkBasalt A vulkan post processing layer for linux
+- https://github.com/tkashkin/GameHub All your games in one place
+- https://github.com/Ahmed-Al-Balochi/LibreGaming Python Program that downloads gaming required packages based on your Linux Distribution
+- https://github.com/bottlesdevs/Bottles Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 
 ## Wikipedia
 - https://en.wikipedia.org/wiki/Proton_(software)
