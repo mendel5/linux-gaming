@@ -10,6 +10,7 @@ Recommended distro for gaming on Linux:
 ## General
 - https://www.gamingonlinux.com
 - https://boilingsteam.com
+- https://linuxgamingcentral.com
 - https://linuxgameconsortium.com
 - https://itsfoss.com/linux-gaming-guide
 - https://ubuntu.com/blog/linux-gaming-with-ubuntu-desktop-steam-and-proton
@@ -26,6 +27,7 @@ Recommended distro for gaming on Linux:
 - https://www.reddit.com/r/linux_gaming
 - https://www.reddit.com/r/wine_gaming
 - https://www.reddit.com/r/SteamDeck
+- https://www.reddit.com/r/linux_gaming/comments/t9hfzw/announcing_new_linux_gaming_blog_linux_gaming
 
 ## Youtube
 - https://www.youtube.com/c/FlightlessMango/videos
