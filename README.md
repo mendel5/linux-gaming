@@ -28,6 +28,7 @@ Recommended distro for gaming on Linux:
 - https://www.reddit.com/r/wine_gaming
 - https://www.reddit.com/r/SteamDeck
 - https://www.reddit.com/r/linux_gaming/comments/t9hfzw/announcing_new_linux_gaming_blog_linux_gaming
+- https://www.reddit.com/r/linux_gaming/comments/uzrz2k/a_thread_about_using_protonge_and_winege_builds/
 
 ## Youtube
 - https://www.youtube.com/c/FlightlessMango/videos
