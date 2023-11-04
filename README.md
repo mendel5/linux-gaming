@@ -54,3 +54,6 @@ Recommended distro for gaming on Linux:
 ## Wikipedia
 - https://en.wikipedia.org/wiki/Proton_(software)
 - https://en.wikipedia.org/wiki/Steam_Deck
+
+## Other
+- https://www.heise.de/ratgeber/Linux-Distributionen-fuer-Gamer-vorgestellt-9342336.html
