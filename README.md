@@ -57,3 +57,4 @@ Recommended distro for gaming on Linux:
 
 ## Other
 - https://www.heise.de/ratgeber/Linux-Distributionen-fuer-Gamer-vorgestellt-9342336.html
+- https://www.computerbase.de/2023-12/welche-linux-distribution-zum-spielen/
