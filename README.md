@@ -39,6 +39,7 @@ Recommended distro for gaming on Linux:
 - https://github.com/ValveSoftware/wine Wine with a bit of extra spice
 - https://github.com/doitsujin/dxvk Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - https://github.com/lutris/lutris Lutris desktop client in Python / PyGObject
+- https://github.com/lutris/docs Documentation for Lutris and other Linux gaming configurations
 - https://github.com/PhoenicisOrg/phoenicis Phoenicis PlayOnLinux and PlayOnMac 5 repository
 - https://github.com/GloriousEggroll/proton-ge-custom Compatibility tool for Steam Play based on Wine and additional components
 - https://github.com/flightlessmango/MangoHud A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more
