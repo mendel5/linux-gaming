@@ -2,6 +2,8 @@
 Overview of resources about gaming on linux
 
 ## Distro
+Note: This part about the recommended distro for gaming on Linux was written some time ago. It might not be up to date anymore. Please do your own research.
+
 Recommended distro for gaming on Linux:
 - Manjaro
 - Download Manjaro: https://manjaro.org/download/Manjaro
